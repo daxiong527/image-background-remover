@@ -1,0 +1,6 @@
+name = "image-bg-remover"
+main = "worker/index.ts"
+compatibility_date = "2024-01-01"
+
+[vars]
+REMOVE_BG_API_KEY = "KYum4oFUmmPs4zDohT2x9Mvp"
